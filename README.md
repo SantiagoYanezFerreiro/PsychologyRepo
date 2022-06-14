@@ -80,9 +80,9 @@
 
 ### Contact Page
 
-![Contact Page](https://santiagoyanezferreiro.github.io/MilestoneProject1GymWebsite/assets/images/wireframecontact.png)
+![Contact Page]()
 
-![Contact Page Mobile](https://santiagoyanezferreiro.github.io/MilestoneProject1GymWebsite/assets/images/wireframecontactmobile.png)
+![Contact Page Mobile]()
 
 ## Technologies Used
 
