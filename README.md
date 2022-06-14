@@ -1,45 +1,156 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+![Site Logo]()
 
-Welcome USER_NAME,
+[Live Website Link]()
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+[GitHub Repository Link]()
 
-## Gitpod Reminders
+![Spartan Factory Responsive Design]()
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+<!--Initial Website Description-->
 
-`python3 -m http.server`
+## Goals
 
-A blue button should appear to click: *Make Public*,
+### Company Goals:
 
-Another blue button should appear to click: *Open Browser*.
+### Customers goals:
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+## User Stories
 
-A blue button should appear to click: *Make Public*,
+## Website Structure
 
-Another blue button should appear to click: *Open Browser*.
+### Join
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+### Classes
 
-## Updates Since The Instructional Video
+### Services
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+### Contact
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+### Thankyou
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+## Existing Features
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+• **Header Logo**
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+• **Header Navigation Bar**
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+• **Footer**
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+• **Call to Action Button**
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+• **Customer Testimonials**
 
---------
+• **Informational Section**
 
-Happy coding!
+• **Pricing Tables**
+
+• **FAQs**
+
+• **Classes Cards**
+
+• **Timetables**
+
+• **Services**
+
+• **About Page**
+
+• **Contact Form**
+
+## Features to Implement in the future
+
+• **Website with an option to choose the language**
+
+• **Users section accessible through a log in form.** Will be used for online classes, tips for every class, booking services reservations and classes and publish gym social events.
+
+• **Careers Section** to post job opening and receive CVs from applicants.
+
+## wireframes
+
+### Home Page
+
+![Home Page]()
+
+![Home Page Mobile]()
+
+### Join Page
+
+![Join Page]()
+
+![Join Page Mobile]()
+
+### Contact Page
+
+![Contact Page](https://santiagoyanezferreiro.github.io/MilestoneProject1GymWebsite/assets/images/wireframecontact.png)
+
+![Contact Page Mobile](https://santiagoyanezferreiro.github.io/MilestoneProject1GymWebsite/assets/images/wireframecontactmobile.png)
+
+## Technologies Used
+
+• This project uses HTML, CSS & JavaScript programming languages.
+
+• GitPod – Developed the main project using this IDE.
+
+• BootstrapCDN
+
+• The project uses Bootstrap4 to simplify the structure of the website and make the website responsive easily.
+
+• The project also uses BootstrapCDN to provide icons from FontAwesome
+
+• Auto-Prefixer. Used to make sure css code has all necessary prefixes to work properly on all modern browsers.
+
+• All external images come from Unsplash.
+
+• Realfavicongenerator: Great tool for creating Favicons.
+
+• FontAwesome: Font Awesome's free package provides a comprehensive icon suite that is fully customisable in CSS;
+
+## Testing
+
+### User Story Testing
+
+## Responsiveness
+
+**Navigation Menu:**
+
+**General Info:**
+
+**Footer:**
+
+**Memberships and Services:**
+
+**FAQ’s:**
+
+**Contact Info and Form sections:**
+
+**Heading Tags:**
+
+## Links and images
+
+All links function and all images are in the Gitpod repository.
+
+## Bugs & Problems
+
+## Deployment
+
+## Cloning
+
+Follow these steps to clone the repository on GitHub:
+• Open the terminal and type ‘cd’ followed by the directory where you want to store this repository.
+
+• Click on ‘Code’ (the green drop-down button on the top of the page).
+
+• Copy the link and type ‘git clone’ followed by the copied name.
+
+## Content
+
+## Media
+
+• All the photos used in this site were obtained from Unsplash.
+
+• The favicon was created using the resource ![Favicon](https://realfavicongenerator.net/)
+
+## Code
+
+## Acknowledgements
+
+## Disclaimer
